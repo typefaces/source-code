@@ -1,0 +1,16 @@
+{
+  "name": "source-code",
+  "repo": "typefaces/source-code",
+  "description": "The Source Code typeface.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "typefaces/source-code-extra-light": "*",
+    "typefaces/source-code-light": "*",
+    "typefaces/source-code-regular": "*",
+    "typefaces/source-code-medium": "*",
+    "typefaces/source-code-semibold": "*",
+    "typefaces/source-code-bold": "*",
+    "typefaces/source-code-black": "*"
+  }
+}
